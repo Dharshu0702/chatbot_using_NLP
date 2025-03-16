@@ -59,14 +59,5 @@ streamlit run chatbot.py
 🔹 Integrate with **Databases or APIs** for dynamic responses.  
 🔹 Implement **Speech-to-Text** for voice interactions.  
 
-## 🤝 Contributing  
-Want to improve this chatbot? Feel free to fork, contribute, and submit pull requests!  
-
-## 📜 License  
-This project is open-source and available under the **MIT License**.  
-
----
-
-Would you like to add any more details, such as images, demo links, or API integrations? 🚀
 
 
